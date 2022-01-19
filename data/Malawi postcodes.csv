@@ -1,0 +1,461 @@
+REGION,DISTRICT POINTER,DISTRICT,TOWN POINTER,LOCATION,POSTCODE
+NORTHERN,1,CHITIPA,100,Chitipa BOMA,101100
+1,,,,TA Kameme,101101
+,,,,STA Bulambya Songwe,101102
+,,,,TA Mwabulambya,101103
+,,,,TA Mwenemisuku,101104
+,,,,STA Lwangwa,101105
+,,,,TA Mwenewenya,101106
+,,,,STA Nthengatenga,101107
+,,,,TA Nthalire,101108
+,,,,STA Wavikaza,101109
+,2,KARONGA,100,Karonga Township,102100
+,,,,Songwe Township,102101
+,,,,TA Mwakaboko,102102
+,,,,TA Kilupula,102103
+,,,,TA Kyungu,102104
+,,,,TA Mwirang'ombe,102105
+,,,,TA Wasambo,102106
+,3,RUMPHI,100,Rumphi BOMA,103100
+,,,,TA Mwalweni,103101
+,,,,STA Kachulu,103102
+,,,,STA Njikula,103103
+,,,,TA Mwamlowe,103104
+,,,,STA Chapinduka,103105
+,,,,TA Mwankhunikira,103106
+,,,,TA Mwahenga,103107
+,,,,STA Chisovya,103108
+,,,,TA Chikulamayembe,103109
+,,,,TA Katumbi,103110
+,,,,STA Zolekere,103111
+,,,,Nyika National Park,103112
+,4,MZIMBA,100,Mzimba BOMA,104100
+,,,,TA Jaravikuba Munthali,104101
+,,,,TA Mtwalo,104102
+,,,,Ekwendeni Township,104103
+,,,,TA Mpherembe,104104
+,,,,TA Chindi,104105
+,,,,TA Kampingo Sibande,104106
+,,,,TA M'mbelwa,104107
+,,,,TA Mzukuzuku,104108
+,,,,TA Mzikubola,104109
+,,,,STA Levi Jere,104110
+,,,,Jenda Township,104111
+,,,,TA Mabulabo,104112
+,,,,TA Khosolo Gwaza Jere,104113
+,,,,Vwaza Marsh Reserve,104114
+,5,MZUZU,200,Mzuzu CBD,105200
+,,,,Khorongo,105201
+,,,,Lupaso,105202
+,,,,Luwinga,105203
+,,,,Mchengautuwa,105204
+,,,,Chibanja,105205
+,,,,Katoto,105206
+,,,,Zolozolo,105207
+,,,,Hilltop,105208
+,,,,Chiputula,105209
+,,,,Mzilawaingwe,105210
+,,,,Katawa,105211
+,,,,Chasefu,105212
+,,,,Lunyangwa,105213
+,,,,Kaningína,105214
+,,,,Masasa,105215
+,,,,Msongwe,105216
+,6,NKHATA BAY,100,Nkhata Bay BOMA,106100
+,,,,STA Mkondowe,106101
+,,,,TA Boghoyo,106102
+,,,,TA M'bwana,106103
+,,,,STA Nyaluwanga,106104
+,,,,TA Timbiri,106105
+,,,,TA Mkumbira,106106
+,,,,TA Mankhambira,106107
+,,,,TA Fukamalaza,106108
+,,,,TA Malanda,106109
+,,,,TA Kabunduli,106110
+,,,,TA Malenga Mzoma,106111
+,,,,TA Fukamapiri,106112
+,,,,TA Zilakoma,106113
+,7,LIKOMA,100,Likoma BOMA,107100
+,,,,TA Mkumpha,107101
+CENTRAL,,,,,
+2,1,KASUNGU,300,Kasungu Central Township,201300
+,,,,Chipala,201301
+,,,,Mponda,201302
+,,,,Bunda,201303
+,,,,Belele,201304
+,,,,Chankhanga,201305
+,,,,Kasalika,201306
+,,,,Kapalankhwazi,201307
+,,,,Chitete,201308
+,,,,Kamvunguti,201309
+,,,,Chimbuna,201310
+,,,,Gundani,201311
+,,KASUNGU RURAL,100,STA Chisikwa,201100
+,,,,TA Kaluluma,201101
+,,,,STA Chisinga,201102
+,,,,TA Chisemphere,201103
+,,,,TA Chulu,201104
+,,,,STA M'nyanja,201105
+,,,,TA Simlemba,201106
+,,,,STA Mphomwa,201107
+,,,,TA Kaphaizi,201108
+,,,,TA Mwase,201109
+,,,,TA Kaomba,201110
+,,,,TA Wimbe,201111
+,,,,TA Kapelula,201112
+,,,,STA Kapichira,201113
+,,,,STA Mdunga,201114
+,,,,TA Chilowamatambe,201115
+,,,,STA Chambwe,201116
+,,,,STA Mangwazu,201117
+,,,,STA Mawawa,201118
+,,,,TA Lukwa,201119
+,,,,TA Njombwa,201120
+,,,,TA Kawamba,201121
+,,,,STA Nthunduwala,201122
+,,,,STA Chaima,201123
+,,,,TA Chidzuma,201124
+,,,,TA Santhe,201125
+,,,,Kasungu National Park,201126
+,2,NKHOTA KOTA,100,Nkhotakota BOMA,202100
+,,,,TA Kafuzila,202101
+,,,,TA Kanyenda,202102
+,,,,Dwangwa Township,202103
+,,,,TA Mphonde,202104
+,,,,TA Malenga Chanzi,202105
+,,,,STA Kalimanjira,202106
+,,,,TA Mwadzama,202107
+,,,,TA Mwansambo,202108
+,,,,Nkhotakota Game Reserve,202109
+,3,NTCHISI,100,Ntchisi BOMA,203100
+,,,,TA Chilooko,203101
+,,,,TA Nthondo,203102
+,,,,TA Malenga,203103
+,,,,TA Kasakula,203104
+,,,,TA Kalumo,203105
+,,,,TA Vuso Jere,203106
+,,,,TA Chikho,203107
+,4,DOWA,100,Dowa BOMA,204100
+,,,,TA Chakhaza,204101
+,,,,TA Dzoole,204102
+,,,,TA Kayembe,204103
+,,,,TA Mponela,204104
+,,,,Mponela Township,204105
+,,,,TA Msakambewa,204106
+,,,,TA Mkukula,204107
+,,,,Lumbadzi Township,204108
+,,,,TA Chiwere,204109
+,5,MCHINJI,100,Mchinji BOMA,205100
+,,,,STA Gumba,205101
+,,,,TA Mkanda,205102
+,,,,TA Dambe,205103
+,,,,STA Pitala,205104
+,,,,TA Kazyozyo,205105
+,,,,STA Kapunula,205106
+,,,,TA Kapondo,205107
+,,,,TA Mduwa,205108
+,,,,STA Nyoka,205109
+,,,,TA Mlonyeni,205110
+,,,,TA Zulu,205111
+,,,,TA Simphasi,205112
+,,,,TA Mavwere,205113
+,6,LILONGWE RURAL,100,TA Khongoni,206101
+,,,,TA Kabudula,206102
+,,,,TA Mtema,206103
+,,,,STA Mbang'ombe,206104
+,,,,TA Chitukula,206105
+,,,,TA Chimutu,206106
+,,,,STA Chitekwele,206107
+,,,,TA Mazengera,206108
+,,,,TA Kalumbu,206109
+,,,,TA Chadza,206110
+,,,,TA Kalumba,206111
+,,,,TA Tsabango,206112
+,,,,TA Njewa,206113
+,,,,TA Malili,206114
+,,,,TA Kalolo,206115
+,,,,TA Masumbankhunda,206116
+,,,,TA Chiseka,206117
+,,,,TA Masula,206118
+,7,LILONGWE URBAN,200,Area 1,207201
+,,,,Area 2,207202
+,,,,Area 3,207203
+,,,,Area 4,207204
+,,,,Area 5,207205
+,,,,Area 6,207206
+,,,,Area 7,207207
+,,,,Area 8,207208
+,,,,Area 9,207209
+,,,,Area 10,207210
+,,,,Area 11,207211
+,,,,Area 12,207212
+,,,,Area 13,207213
+,,,,Area 14,207214
+,,,,Area 15,207215
+,,,,Area 16,207216
+,,,,Area 17,207217
+,,,,Area 18,207218
+,,,,Area 19,207219
+,,,,Area 20,207220
+,,,,Area 21,207221
+,,,,Area 22,207222
+,,,,Area 23,207223
+,,,,Area 24,207224
+,,,,Area 25,207225
+,,,,Area 26,207226
+,,,,Area 27,207227
+,,,,Area 28,207228
+,,,,Area 29,207229
+,,,,Area 30,207230
+,,,,Area 31,207231
+,,,,Area 32,207232
+,,,,Area 33,207233
+,,,,Area 34,207234
+,,,,Area 35,207235
+,,,,Area 36,207236
+,,,,Area 37,207237
+,,,,Area 38,207238
+,,,,Area 39,207239
+,,,,Area 40,207240
+,,,,Area 41,207241
+,,,,Area 42,207242
+,,,,Area 43,207243
+,,,,Area 44,207244
+,,,,Area 45,207245
+,,,,Area 46,207246
+,,,,Area 47,207247
+,,,,Area 48,207248
+,,,,Area 49,207249
+,,,,Area 50,207250
+,,,,Area 51,207251
+,,,,Area 52,207252
+,,,,Area 53,207253
+,,,,Area 54,207254
+,,,,Area 55,207255
+,,,,Area 56,207256
+,,,,Area 57,207257
+,,,,Area 58,207258
+,8,SALIMA,100,Salima Township,208100
+,,,,TA Msosa,208101
+,,,,TA Khombedza,208102
+,,,,TA Mwanza,208103
+,,,,TA Kuluunda,208104
+,,,,TA Karonga,208105
+,,,,TA Maganga,208106
+,,,,TA Kambwiri,208107
+,,,,TA Pemba,208108
+,,,,TA Ndindi,208109
+,,,,Chipoka Township,208110
+,,,,TA Kambalame,208111
+,9,DEDZA,100,Dedza Township,209100
+,,,,TA Tambala,209101
+,,,,TA Chauma,209102
+,,,,TA Kasumbu,209103
+,,,,TA Kachindamoto,209104
+,,,,TA Kamenya Gwaza,209105
+,,,,TA Kaphuka,209106
+,,,,TA Chilikumwendo,209107
+,,,,TA Kachere,209108
+,10,NTCHEU,100,Ntcheu BOMA,210100
+,,,,TA Masasa,210101
+,,,,TA Chakhumbira,210102
+,,,,TA Goodson Ganya,210103
+,,,,TA Njolomole,210104
+,,,,TA Kwataine,210105
+,,,,TA Makwangwala,210106
+,,,,STA Mkutumula,210107
+,,,,TA Champiti,210108
+,,,,TA Mpando,210109
+,,,,TA Phambala,210110
+,,,,STA Tsikulamowa,210111
+SOUTHERN,1,MANGOCHI,400,Mangochi Central Township,301400
+3,,,,Koche,301401
+,,,,Thundu,301402
+,,,,Chigawe,301403
+,,,,Mikomwa,301404
+,,,,Nkanamwano,301405
+,,,,Kalungu,301406
+,,,,Msukamwere,301407
+,,,,Mtumbwasi,301408
+,,,,Mwasa,301409
+,,,,Ndege,301410
+,,,,Chikole,301411
+,,,,Msikisi,301412
+,,MANGOCHI RURAL,,STA Lulanga,301100
+,,,,TA Makanjila,301101
+,,,,TA Namabvi,301102
+,,,,TA Katuli,301103
+,,,,TA Chowe,301104
+,,,,TA Jalasi,301105
+,,,,TA Mbwana Nyambi,301106
+,,,,STA Chiunda,301107
+,,,,TA Nankumba,301108
+,,,,Monkey Bay Township,301109
+,,,,TA Mponda,301110
+,,,,STA Ntonda,301111
+,,,,TA Chilipa,301112
+,,,,TA Chimwala,301113
+,,,,Lake Malawi National Park,301114
+,2,BALAKA,400,Balaka Township,302400
+,,,,STA Kachenga,302401
+,,,,TA Kalembo,302402
+,,,,TA Amidu,302403
+,,,,STA Toleza,302404
+,,,,STA Matola,302405
+,,,,TA Sawali,302406
+,,,,TA Msamala,302407
+,,,,TA Chanthunya,302408
+,,,,STA Phalula,302409
+,,,,TA Nkaya,302410
+,3,MACHINGA,100,Machinja BOMA,303100
+,,,,Liwonde Township,303101
+,,,,TA Nyambi,303102
+,,,,STA Chesale,303103
+,,,,TA Ngokwe,303104
+,,,,TA Chikweo,303105
+,,,,STA Nchinguza,303106
+,,,,TA Kapoloma,303107
+,,,,TA Nkoola,303108
+,,,,TA Chiwalo,303109
+,,,,TA Liwonde,303110
+,,,,TA Kawinga,303111
+,,,,TA Mlomba,303112
+,,,,STA Nsanama,303113
+,,,,TA Mposa,303114
+,,,,TA Chamba,303115
+,,,,TA Sitola,303116
+,,,,TA Mkula,303117
+,,,,Liwonde National Park,303118
+,4,ZOMBA RURAL,100,STA Nkapita,304101
+,,,,TA Malemia,304102
+,,,,TA Kuntumanji,304103
+,,,,TA Mkumbira,304104
+,,,,STA Nkagula,304105
+,,,,TA Mlumbe,304106
+,,,,STA Ntholowa,304107
+,,,,TA Chikowi,304108
+,,,,TA Mwambo,304109
+,,,,STA Ngwelero,304110
+,,,,TA Mbiza,304111
+,,,,Zomba Mountain Reserve,304112
+,5,ZOMBA URBAN,200,Zomba CBD,305200
+,,,,Ndola,305201
+,,,,Zakazaka,305202
+,,,,St Mary,305203
+,,,,Nandolo,305204
+,,,,Chirunga,305205
+,,,,Masongola,305206
+,,,,Mangasanja,305207
+,,,,Mulunguzi,305208
+,,,,Old Naisi,305209
+,,,,Malonje,305210
+,,,,Chinamwali,305211
+,,,,Matawale,305212
+,,,,Thom Allan,305213
+,,,,Mpunga,305214
+,,,,Sadzi,305215
+,,,,Mponda Bwino,305216
+,,,,Three Miles,305217
+,,,,Mtiya,305218
+,,,,Cobbe,305219
+,6,CHIRADZULU,100,Chiradzulu BOMA,306100
+,,,,TA Chitera,306101
+,,,,TA Mpama,306102
+,,,,TA Nchema,306103
+,,,,STA Sandaraki,306104
+,,,,TA Kadewere,306105
+,,,,STA Onga,306106
+,,,,TA Likoswe,306107
+,,,,STA Mpunga,306108
+,,,,TA Nkalo,306109
+,7,PHALOMBE,100,Phalombe BOMA,307100
+,,,,Migowi Township,307101
+,,,,TA Chiwalo,307102
+,,,,TA Jenala,307103
+,,,,TA Mkhumba,307104
+,,,,TA Kaduya,307105
+,,,,TA Nazombe,307106
+,,,,TA Nkhulambe,307107
+,8,MULANJE,100,Mulanje BOMA,308100
+,,,,TA Juma,308101
+,,,,TA Nkanda,308102
+,,,,TA Nthiramanja,308103
+,,,,TA Chikumbu,308104
+,,,,STA Tombondiya,308105
+,,,,TA Mabuka,308106
+,,,,STA Sunganinzeru,308107
+,,,,TA Laston Njema,308108
+,,,,Mulanje Mountain Reserve,308109
+,9,LUCHENZA,300,Luchenza Township,309300
+,10,THYOLO,100,Thyolo BOMA,310100
+,,,,TA Bvumbwe,310101
+,,,,TA Thomas,310102
+,,,,TA Mphuka,310103
+,,,,STA Boyidi,310104
+,,,,TA Chimaliro,310105
+,,,,TA Ngolongoliwa,310106
+,,,,TA Nanseta,310107
+,,,,STA Ndalama,310108
+,,,,TA Nchilamwela,310109
+,,,,TA Kapichi,310110
+,,,,TA Kwethemule,310111
+,,,,TA Changata,310112
+,,,,STA Mbawela,310113
+,,,,TA Nsabwe,310114
+,,,,STA Thukuta,310115
+,11,BLANTYRE RURAL,100,TA Chigaru,311101
+,,,,TA Lundu,311102
+,,,,TA Kunthembwe,311103
+,,,,TA Kuntaja,311104
+,,,,Chileka,311105
+,,,,TA Kapeni,311106
+,,,,Lunzu Township,311107
+,,,,TA Makata,311108
+,,,,TA Machinjiri,311109
+,,,,TA Somba,311110
+,,,,Mpemba,311111
+,12,BLANTYRE URBAN,200,Blantyre CBD,312200
+,,,,Mapanga,312201
+,,,,Kachere,312202
+,,,,Maone,312203
+,,,,Nkolokoti,312204
+,,,,Ndirande,312205
+,,,,South Lunzu,312206
+,,,,Kameza,312207
+,,,,Chirimba,312208
+,,,,Chemusa,312209
+,,,,Mbayani,312210
+,,,,Nyambadwe,312211
+,,,,Chilomoni,312212
+,,,,Namiwawa,312213
+,,,,Sunnyside,312214
+,,,,Nancholi,312215
+,,,,Zingwangwa,312216
+,,,,Chilobwe,312217
+,,,,Chimwankhunda,312218
+,,,,Manja,312219
+,,,,Nkolokosa,312220
+,,,,Chitawira,312221
+,,,,Naperi,312222
+,,,,Mount Pleasant,312223
+,,,,Mandala,312224
+,,,,Chichiri,312225
+,,,,Chinyonga,312226
+,,,,Kanjedza,312227
+,,,,Mudi,312228
+,,,,Limbe,312229
+,,,,Mpingwe,312230
+,,,,Bangwe,312231
+,,,,Namiyango,312232
+,,,,BCA,312233
+,,,,Misesa,312234
+,,,,Chiwembe,312235
+,,,,Angelogothere,312236
+,,,,Che Somba,312237
+,,,,Chigumula,312238
+,13,NENO,100,Neno BOMA,313100
+,,,,TA Dambe,313101
+,,,,TA Chekucheku,313102
+,,,,TA Symon Likongwe,313103
+,,,,Zalewa Township,313104
+,,,,TA Mlauli,313105

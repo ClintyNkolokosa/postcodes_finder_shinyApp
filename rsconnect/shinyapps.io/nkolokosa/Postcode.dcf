@@ -1,0 +1,13 @@
+name: Postcode
+title: Postcode
+username:
+account: nkolokosa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5458376
+bundleId: 5481972
+url: https://nkolokosa.shinyapps.io/Postcode/
+when: 1642529496.02404
+lastSyncTime: 1642529496.02404
+asMultiple: FALSE
+asStatic: FALSE
